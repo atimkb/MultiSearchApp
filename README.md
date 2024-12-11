@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c489bf29-6622-480c-a36b-bfbc1ae25ac9)
+
+
 The MultiSearchApp is a Windows Forms application tailored for Excel users who need efficient search automation. It allows users to quickly paste copied data from Excel into the app, facilitating simultaneous searches on web browsers like Google or Bing. The application automates bulk search workflows, offers real-time control with stop functionality, and handles captchas. This app is perfect for those who require quick and organized search operations across multiple terms.
 
 Features:
@@ -34,3 +37,10 @@ Features:
 
 10. Excel Data Integration:
     - Ability to paste copied data from Excel directly into the app for quick search terms input.
+   
+**How to Use:
+
+1. download the zip file from above.
+2. unzip the files.
+3. run the .exe file.
+4. enjoy.**
