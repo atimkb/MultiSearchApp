@@ -38,9 +38,9 @@ Features:
 10. Excel Data Integration:
     - Ability to paste copied data from Excel directly into the app for quick search terms input.
    
-**How to Use:
+How to Use:
 
 1. download the zip file from above.
 2. unzip the files.
 3. run the .exe file.
-4. enjoy.**
+4. enjoy.
